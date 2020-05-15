@@ -3,7 +3,7 @@ package com.test;
 public class MainClass {
 	
 	public static void main(String[] args) {
-		System.out.println("Main class");
+		System.out.println("Welcome to git");
 	}
 
 }
